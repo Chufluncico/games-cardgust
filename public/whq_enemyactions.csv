@@ -1,0 +1,77 @@
+Nombre,Texto
+¡Fuego!,"Si estás enfrentado a 3 enemigos sufres 2 #herida. En caso contrario, coloca una ficha de Progresión enfrentada a ti. Esta ficha se tratará como un Goblin (Ataque 1, Resistencia 0, Vida 2)."
+Acribillar,"Tira 1 #dadonegro. Si obtienes #impacto, este enemigo se activa de nuevo. Si obtienes #antagonista, el enemigo de menor rango que esté enfrentado a ti, sufre tantas #herida como la puntuación de ataque de este enemigo."
+Aguijón,"Si este enemigo está enfrentado a ti, sufres el estado Enfermo. Si ya tenías el estado Enfermo, agota tu acción de Ataque o sufre 2 #herida."
+Al acecho,"Cuando este enemigo se revela, colócalo junto a la carta de lugar.Cuando este enemigo se revela, colócalo junto a la carta de lugar.Nadie puede enfrentarse a este enemigo.Este enemigo es inmune a cualquier tipo de daño. Cuando un héroe realize la acción Explorar, cuenta como si se estuviese enfrentando a este enemigo, además de los que tenga en su zona de enfrentamiento.Cuando el grupo viaje, elimina este enemigo."
+Antorcha,"Coloca un marcador sobre el lugar activo para indicar que está Ardiendo. Un lugar no puede tener más de un marcador Ardiendo. El lugar activo permanece Ardiendo hasta que el grupo viaja. Si al inicio de la fase de Lugar, el lugar activo está Ardiendo, cada héroe sufre 1 #herida."
+Aplastar,"Si este enemigo está enfrentado a ti, agota 1 de tus acciones."
+Apuñalar,"Si este enemgio está enfrentado a ti, sufres los estados Hemorragia y Enfermo. Si ya tenías alguno de estos estados, sufres 1 #herida."
+Arremeter,"Cada héroe tira 2 #dadonegro. Por cada #impacto, el héroe sufre 1 #herida."
+Ataque giratorio,"El héroe enfrentado a este enemigo sufre 3 #herida. Después , el resto de enemigos enfrentados a este héroe sufren 1 #herida."
+Atrapa-cosas,"Si este enemgio está enfrentado a ti y tienes todas tus acciones preparadas, escoge 1 acción y colócala boca abajo. "
+Atrapar,"Si este enemigo está en las sombras, agota 1 de tus acciones."
+Aturdir,"Si este enemigo está enfrentado a ti, agota 1 de tus acciones."
+Avance,
+Banquete,"Tira 1 #dadonegro por cada #herida que haya causado este enemigo durante esta activación con su efecto Daño. Por cada #impacto, este enemigo recupera 1 #herida. Esto puede hacer que supere sus puntos de vida iniciales."
+Bramido,"Si este enemigo está enfrentado a un héroe, los demás enemigos enfrentados a este héroe que no sean Antagonistas, se retiran."
+Carga,"Este enemigo se enfrenta al héroe con mayor vida restante. Si esto hace que se enfrente a un nuevo héroe, este debe agotar 1 acción."
+Caza,"Si este enemigo está enfrentado a ti, sufre 2 #herida. En caso contrario, quita todas las #herida de este enemigo y ponlo boca abajo."
+Chillido mortal,Agota 1 acción.
+Cobardía,"Si estás enfrentado al menos a 1 enemigo más, sufres 1 #herida. En caso contrario, se retira."
+Confusión,Cada héroe agota 1 de sus acciones.
+Cornada,"Si este enemigo está enfrentado a ti, sufres el estado hemorragia."
+Correteo,"Si este enemigo está enfrentado a ti, se retira. En caso contrario se enfrenta a ti."
+Crueldad,Sufre 1 #herida y descarta 1 #exito por cada acción agotada.
+Curación,"Este enemigo y todos los enemigos en su misma zona, recuperan 1 #herida."
+Daga bruja,"Si este enemigo está enfrentado a ti, sufres 2 #herida y el estado Hemorragia. Después, sufre 1 #herida por cada vez que hayas sufrido el efecto Daga bruja durante esta aventura."
+Daño,
+Derretir la mente,"Tira 3 #dadonegro. Por cada #impacto, todos los héroes sufren 1 #herida."
+Desafío,Este enemigo se enfrenta al héroe que tenga menos #herida.
+Desafío brutal,"Este enemigo se enfrenta al héroe que tenga menos #herida. Despúes, si este enemigo está enfrentado a un héroe sufre 1 #herida."
+Disputa,"Si este enemigo comparte zona con otro Horror azul (en las sombras o enfrentados aun héroe), se agota sin resolver el resto de efectos."
+Embestida,"Si este enemigo no estaba enfrentado a ti antes de su activación, agota una acción y sufre 2 #herida."
+Enfermedad,"Si este enemigo está enfrentado a ti, sufres el estado Enfermo."
+Esfera,"Si este enemigo está enfrentado a ti, sufres el estado Enfermo. Si ya tenías el estado Enfermo, sufres 2 #herida. Todos los demás enemigos enfrentados a ti sufren 1 #herida."
+Estupidez,"Tira 1 #dadonegro. Si el resultado es  cara vacía o #antagonista, este enemgio se agota sin resolver el resto de efectos. Ignora este efecto si hay un Señor de las bestias en juego."
+Evasión,"Retirada. La próxima vez que reciba #herida, redúcelas a la mitad, redondeando hacia abajo."
+Expiación,"Si al menos 1 enemigo distinto de nivel 1 ha sufrido #herida, los 2 enemigos de mayor rango que hayan sufrido #herida recuperan 1 #herida cada uno y este enemigo sufre 1 #herida."
+Fatalidad,Este enemigo recupera 2 #herida.
+Frenesí,"Si este enemigo se enfrenta contigo, sufre 2 #herida."
+Fuego disforme,"Tira 1 #dadonegro. Si sacas 1 #antagonista, este enemigo es derrotado y además, si estabas enfrentado a él, sufres 2 #herida y el estado Hemorragia. Con cualquier otro resultado, tú y el héroe que se sienta atu derecha sufrís 2 #herida cada uno. Durante la siguiente fase de héroes, ignora los <i class=""escudo""></i>."
+Furia,"Si este enemigo se enfrenta a ti, recupera 1 #herida."
+Furia asesina,Agota 2 acciones o tira 2 #dadonegro. Por cada resultado de #impacto o #antagonista sufres 2 #herida.
+Grito de guerra,"El enemigo de mayor rango que se encuentre agotado en las sombras, se prepara y se activa."
+Humo,"Tira 1 #dadonegro. Si sacas un #impacto, este enemigo no puede ser escogido como objetivo de la acción de Ataque de un héroe ni sufrir #herida durante la siguiente fase de Héroes."
+Incursión,"Si este enemigo está enfrentado a ti, descarta 2 de Progresión del lugar activo y se retira. En caso contrario, se enfrenta a ti y sufres tantas #herida como la puntuación de ataque de este enemigo."
+Inmundicia,"Si este enemigo está enfrentado a ti, agota 1 acción o sufre el estado Enfermo"
+Inpredecible,"Tira 1 #dadonegro. Si el resultado es cara vacía o #antagonista, este enemgio se enfrenta al héroe con más #herida. Ese héroe subre 3 #herida.Si el resultado es #impacto, este enemigo se enfrenta a ti. Sufre 1 #herida por cada una de tus acciones agotadas y sufres el estado Hemorragia."
+Laceración,"Si este enemigo está enfrentado a ti, sufres el estado Hemorragia."
+Lamento,Tira 1 #dadonegro. Si el resultado es  #impacto o #antagonista agota 1 acción y sufre 1 #herida.
+Latigazo,"Escoge una de tus cartas de acción con al menos 1 #exito. Después descarta todas las #exito que haya sobre dicha carta de acción. Si no has podido descartar ninguna ficha, sufres 2 #herida."
+Maldición,"Si este enemigo está enfrentado a ti, sufres el estado Enfermo y además descarta todas tus #exito y el estado Fortalecido."
+Mordisco,"Si este enemigo está enfrentado a ti, sufres el estado Hemorragia y agotas 1 de tus acciones."
+Muchedumbre,"Igual que Avance, pero no puedes ser el objetivo de una acción de Apoyo de otro héroe cuando estás enfrentado con este enemigo."
+Mugre,"Si este enemigo está enfrentado a ti, agota 1 de tus acciones y sufres el estado Enfermo."
+Persecución,Descarta 1 de Progresión del lugar activo.
+Pisotear,Sufre 4 #herida. Puedes agotar hasta 2 acciones para sufrir 2 #herida menos por acción agotada de esta manera.
+Presa,Este enemigo se enfrenta al héroe que tenga más #herida.
+Pudrir,"Si el enemigo está enfrentado a ti, agota 1 acción y sufres el estado Pobredumbre de Nurgle."
+Puñalada,"Si este enemigo está enfrentado a ti, tira 1 #dadonegro. Si sacas #impacto, sufres el estado Hemorragia. Si ya lo tenías, sufres el estado Enfermo. Al final de la fase de Peligro, este enemigo y todos los enemigos que no tengan #herida, se colocan boca abajo aleatoriamente en las sombras."
+Putrefacción,Sufre 1 #herida por cada una delas acciones que tengas agotadas
+Rapiña,Este enemigo se enfrenta al héroe que tenga más #herida.
+Rayo de disformidad,"Tú, el enemigo de menor rango que esté enfrentado a ti, y el héroe que se sienta a tu izquierda sufrís 2 #herida cada uno. Después, si el enemigo que está enfrentado ati ha sido derrotado, aparece 1 enemigo."
+Rayo verde,"Tira 1 #dadonegro por cada enemigo que esté preparado en juego. Por cada #impacto o #antagonista, sufres 1 #herida."
+Recuperación,Este enemigo recupera todas sus #herida.
+Regeneración,Este enemigo recupera 2 #herida.
+Regeneración élite,Este enemigo recupera 3 #herida.
+Regenerar,Este enemigo descarta 1#herida.
+Retirada,
+Reto,"Este enemigo se enfrenta al héroe que tenga menos #herida. Durante la siguiente fase de Héroes, este héroe solo puede elegir la acción de Ataque o la que contenga el icono de preparación. Si elije la acción de Ataque, sólo puede escoger como objetivo a este enemigo. Si la acción le permite enfrentarse a un enemigo, solo puede escoger como objetivo a este enemigo."
+Ritual,Coloca una ficha de Éxito sobre este enemigo.
+Sacrificio,"Si hay al menos 1 enemigo en juego, destruye el enemigo en juego de menor rango y luego este enemigo recupera 3 #herida."
+Señalar,Si este enemigo no ha sufrido#herida sufre 1 #herida. Aparece 1 enemigo agotado boca arriba en las sombras.
+Tiro miserable,"El héroe con más #herida sufre tantas #herida como el valor de ataque de este enemigo. Si este enemgio sufre ya el estado Hemorragia o Enfermo, sufre 1 #herida adicional."
+Toque gélido,El héroe enfrentado a este enemigo agota 1 acción.
+Vagabundo,"Si este enemigo está enfrentado a ti, se enfrenta al siguiente héroe (siguiendo el sentido de las agujas del reloj). En caso contrario, se enfrenta a ti."
+Veneno,Este enemigo tiene una mordedura venenosa que hace que el héroe atacado sufra el estado Enfermo.
+Voracidad,"Tira 1 #dadonegro. si sacas una cara vacía o #antagonista, no resuelvas el siguiente efecto y además éste enemigo sufre 1 #herida."

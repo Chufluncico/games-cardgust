@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "CelestiaAntiquaSB";
+    src: url(../fonts/CelestiaAntiquaStd-Semibold.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "CaslonAntiqueRegular";
+    src: url(../fonts/caslon-antique.regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "DominicanSC";
+    src: url(../fonts/Dominican-Small-Caps-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Crimson";
+    src: url(../fonts/CrimsonText-Regular.ttf) format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
